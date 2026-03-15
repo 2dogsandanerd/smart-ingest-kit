@@ -5,7 +5,7 @@ It has come to my attention that the GitHub user @tfantas (Thiago Antas) and his
 They have explicitly listed my original repositories (including RAG_enterprise_core, smart-ingest-kit, DAUT, etc.) as their own '🔬 Featured Work' on their public 
 profile without authorization or proper attribution. Below is the documented proof.
 
-![Screenshot Plagiat](assets/plagiat_26-03-14_20-56-16.png)
+![Screenshot Plagiat](plagiat_26-03-14_20-56-16.png)
 
 
 https://github.com/tfantas  seems to have 20+ years of expirience but no own ideas .... Im gonna make him famous...... 
